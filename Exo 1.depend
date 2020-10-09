@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601285265 source:c:\users\darcia\desktop\exo 1\main.c
+	<stdio.h>
+	<stdlib.h>
+
